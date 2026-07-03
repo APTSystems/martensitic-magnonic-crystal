@@ -1,0 +1,9 @@
+Figure 1: Diagram of a one-dimensional chain of alternating twin variants A and B with easy axis arrows. Twin boundaries marked between blocks. Spin wave propagates left to right under an external DC magnetic field applied along the chain direction.
+
+Figure 2: Two-panel figure. Left panel shows Bloch dispersion relation omega versus q with band folding, frequency gaps, and a dashed line at 26.9 GHz marking the variant B FMR. Right panel shows finite-chain transmission spectrum with red shaded regions indicating strong attenuation below 0.3 threshold.
+
+Figure 3: Left panel shows stop-band fraction increasing from 19 to 30 percent as positional disorder sigma increases from 0 to 30 nm. Right panel shows three overlaid transmission spectra at sigma equals 0, 10, and 20 nm illustrating attenuation broadening.
+
+Figure 4: Ten-panel grid of transmission spectra for independent disorder realizations at sigma equals 10 nm. All panels show attenuation below the 0.3 threshold, with deepest minima exceeding 40 dB.
+
+Table I: Table listing Pearson correlation and Hamming distance for variant width ratios from 0.33 to 3.0. All non-baseline ratios show correlation near zero and Hamming distance near 0.5, indicating strong transmission fingerprint reconfiguration.
